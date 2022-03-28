@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @navitotheworld
 - 👀 I’m interested in space science/technology, machine learning, Python, Linux, MATLAB.
-- 🌱 I’ve recently completed MSc Space Science and Engineering: Space Technology learning.
-- 💞️ I’m looking to collaborate on space projects.
+- 🌱 I’ve recently completed MSc Space Science and Engineering: Space Technology.
+- 💞️ I’m looking to collaborate on space tech projects.
 - 📫 How to reach me ...
 
 <!---
